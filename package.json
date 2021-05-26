@@ -1,0 +1,22 @@
+{
+  "name": "graphitas",
+  "version": "0.0.0",
+  "description": "A small graph library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhithyan15/graphitas.git"
+  },
+  "keywords": [
+    "Graph"
+  ],
+  "author": "Adhithya Rajasekaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adhithyan15/graphitas/issues"
+  },
+  "homepage": "https://github.com/adhithyan15/graphitas#readme"
+}
