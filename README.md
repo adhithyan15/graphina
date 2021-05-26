@@ -1,2 +1,2 @@
-# graphitas
+# Graphina
 A small graph library
