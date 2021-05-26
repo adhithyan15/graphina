@@ -2,9 +2,9 @@
   "name": "graphina",
   "version": "0.2.0",
   "description": "A small graph library",
-  "main": "index.js",
+  "main": "./dist/bundle.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run webpack"
   },
   "repository": {
     "type": "git",
