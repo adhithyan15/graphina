@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adhithyan15/graphitas.git"
+    "url": "git+https://github.com/adhithyan15/graphina.git"
   },
   "keywords": [
     "Graph"
@@ -16,7 +16,7 @@
   "author": "Adhithya Rajasekaran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adhithyan15/graphitas/issues"
+    "url": "https://github.com/adhithyan15/graphina/issues"
   },
-  "homepage": "https://github.com/adhithyan15/graphitas#readme"
+  "homepage": "https://github.com/adhithyan15/graphina#readme"
 }
